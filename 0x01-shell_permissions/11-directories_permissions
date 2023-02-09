@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -hR 111 mydir
+chmod -R a+X
